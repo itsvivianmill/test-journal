@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "publish/Guide/Yay guides.md",
+                "file": "publish/IMPORTANT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yay guides"
+              "title": "IMPORTANT"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "publish/Guide/Yay guides.md",
+                "file": "publish/IMPORTANT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Yay guides"
+              "title": "Backlinks for IMPORTANT"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "publish/Guide/Yay guides.md",
+                "file": "publish/IMPORTANT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Yay guides"
+              "title": "Outgoing links from IMPORTANT"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "publish/Guide/Yay guides.md",
+                "file": "publish/IMPORTANT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Yay guides"
+              "title": "Outline of IMPORTANT"
             }
           }
         ]
@@ -173,8 +173,9 @@
   },
   "active": "14737d21c4e16a0c",
   "lastOpenFiles": [
-    "no one will see this bc it is outside publish.md",
+    "Untitled.md",
     "publish/Guide/Yay guides.md",
+    "no one will see this bc it is outside publish.md",
     "publish/link 1.md",
     "publish/Guide",
     "publish/index.md",
